@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1> Hi there 👋, I am himanshu sharma <h1>
-  🔭 I’m currently working with <a href="https://begenuin.com/" target="_blank"> Genuin </a> as  an intern.
-  🌱 I’m currently learning Advance Machine Learning.
-  💬 Ask me about <strong> Python, Java, Machine Learning, Django, Mern Stack, Vue.js, etc... </strong>
-  📫 How to reach me: Email: himanshusharma445653@gmail.com , Mobile No: 7433😄😄😄😄😄😄
+  <p>🔭 I’m currently working with <a href="https://begenuin.com/" target="_blank"> Genuin </a> as  an intern. </p>
+  <p>🌱 I’m currently learning Advance Machine Learning.</p>
+  <p>💬 Ask me about <strong> Python, Java, Machine Learning, Django, Mern Stack, Vue.js, etc... </strong></p>
+  <p>📫 How to reach me: Email: himanshusharma445653@gmail.com , Mobile No: 7433😄😄😄😄😄😄</p>
  
   
   <p align="center">
