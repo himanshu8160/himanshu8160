@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **himanshu8160/himanshu8160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1> Hi there 👋, I am himanshu sharma <h1>
+  🔭 I’m currently working with <a href="https://begenuin.com/" target="_blank"> Genuin </a> as  an intern.
+  🌱 I’m currently learning Advance Machine Learning.
+  💬 Ask me about <strong> Python, Java, Machine Learning, Django, Mern Stack, Vue.js, etc... </strong>
+  📫 How to reach me: Email: himanshusharma445653@gmail.com , Mobile No: 7433😄😄😄😄😄😄
+ 
+  
+  <p align="center">
+      <a href="https://www.linkedin.com/in/himanshu-sharma-478266176/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  height="30" width="30" /> </a>
+  </p>
